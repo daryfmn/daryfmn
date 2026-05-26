@@ -23,8 +23,6 @@
 
 <p align="left">
 I am an IT Student & Full Stack Developer based in Indonesia, currently pursuing degree program: a Bachelor of Information and Communication Technology (Honours) at Asia e University and an Associate Degree at Universitas Indonesia (CEP-CCIT-FTUI). 
-
-I have a strong passion for building responsive, user-focused web and mobile applications, and I am always enthusiastic about contributing to real-world projects.
 </p>
 
 * 🔭 **Current Focus:** Full Stack Web Development & Mobile Development.
