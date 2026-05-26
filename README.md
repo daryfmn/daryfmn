@@ -22,7 +22,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-I am an IT Student & Full Stack Developer based in Indonesia, currently pursuing a dual-degree program: a Bachelor of Information and Communication Technology (Honours) at Asia e University and an Associate Degree at Universitas Indonesia (CEP-CCIT-FTUI). 
+I am an IT Student & Full Stack Developer based in Indonesia, currently pursuing degree program: a Bachelor of Information and Communication Technology (Honours) at Asia e University and an Associate Degree at Universitas Indonesia (CEP-CCIT-FTUI). 
 
 I have a strong passion for building responsive, user-focused web and mobile applications, and I am always enthusiastic about contributing to real-world projects.
 </p>
@@ -30,7 +30,6 @@ I have a strong passion for building responsive, user-focused web and mobile app
 * 🔭 **Current Focus:** Full Stack Web Development & Mobile Development.
 * 🎓 **Education:** * Bachelor of ICT (Honours) at **Asia e University** (2024 - Present)
   * Associate Degree in IT (Full Stack Developer) at **CEP-CCIT-FTUI, Universitas Indonesia** (2024 - Present)
-* ⚡ **Fun Fact:** Actively volunteered at technology summits like the D-Futuro Futurist Summit 2024.
 
 ###
 
@@ -66,9 +65,3 @@ I have a strong passion for building responsive, user-focused web and mobile app
 * **Online Book Store (Web & RESTful API)** - Developed a full-stack bookstore system. Built the responsive frontend using CodeIgniter 4 (PHP) and designed a robust RESTful API backend using Spring Boot (Java) with full CRUD endpoints.
 
 ###
-
-<h3 align="left">🔥 My Stats :</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=daryfmn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
