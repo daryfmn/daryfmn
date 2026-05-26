@@ -8,8 +8,8 @@
   <a href="mailto:d.fadhlurrohman.id@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <a href="https://github.com/daryfmn">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="github logo" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/muhammad-fadhlurrohman-566b8840b">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
 
@@ -30,7 +30,7 @@ I am an IT Student & Full Stack Developer based in Indonesia, currently pursuing
   * Associate Degree in IT (Full Stack Developer) at **CEP-CCIT-FTUI, Universitas Indonesia** (2024 - Present)
 
 ###
-
+---
 <h3 align="left">🛠️ Languages and Tools</h3>
 
 <div align="left">
@@ -56,7 +56,7 @@ I am an IT Student & Full Stack Developer based in Indonesia, currently pursuing
 </div>
 
 ###
-
+---
 <h3 align="left">🚀 Highlighted Projects</h3>
 
 * **Imagix (Mobile Application)** - Built frontend UI pages and custom widgets using Flutter/Dart, integrated with Supabase for secure authentication, database management, and cloud storage.
