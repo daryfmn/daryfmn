@@ -66,9 +66,3 @@ I have a strong passion for building responsive, user-focused web and mobile app
 * **Online Book Store (Web & RESTful API)** - Developed a full-stack bookstore system. Built the responsive frontend using CodeIgniter 4 (PHP) and designed a robust RESTful API backend using Spring Boot (Java) with full CRUD endpoints.
 
 ###
-
-<h3 align="left">🔥 My Stats :</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=daryfmn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
