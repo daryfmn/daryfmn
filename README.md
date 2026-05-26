@@ -8,7 +8,7 @@
   <a href="mailto:d.fadhlurrohman.id@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/muhammad-fadhlurrohman-566b8840b">
+  <a href="https://www.linkedin.com/in/muhammad-fadhlurrohman-566b8840b/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
