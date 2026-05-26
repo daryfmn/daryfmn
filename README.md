@@ -26,7 +26,8 @@ I am an IT Student & Full Stack Developer based in Indonesia, currently pursuing
 </p>
 
 * 🔭 **Current Focus:** Full Stack Web Development & Mobile Development.
-* 🎓 **Education:** * Bachelor of ICT (Honours) at **Asia e University** (2024 - Present)
+* 🎓 **Education:**
+  * Bachelor of ICT (Honours) at **Asia e University** (2024 - Present)
   * Associate Degree in IT (Full Stack Developer) at **CEP-CCIT-FTUI, Universitas Indonesia** (2024 - Present)
 
 ###
