@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/muhammad-fadhlurrohman-566b8840b/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
+  <a href="https://daryfmn.github.io">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="portfolio" />
+  </a>
 </div>
 
 ###
