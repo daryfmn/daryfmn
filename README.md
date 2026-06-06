@@ -12,8 +12,8 @@
 
 <p align="left">
   <a href="mailto:d.fadhlurrohman.id@gmail.com"><img src="https://img.shields.io/badge/Gmail-d.fadhlurrohman.id@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-fadhlurrohman-566b8840b/"><img height="30" src="https://img.shields.io/badge/LinkedIn-MDF-161b22?logo=linkedin&logoColor=white&labelColor=0A66C2&style=flat"/></a>
   <a href="https://daryfmn.github.io"><img height="30" src="https://img.shields.io/badge/Portfolio-161b22?logo=githubpages&logoColor=white&labelColor=222222&style=flat"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-fadhlurrohman-566b8840b/"><img height="30" src="https://img.shields.io/badge/Muhammad%20Dary-161b22?logo=linkedin&logoColor=white&labelColor=0A66C2&style=flat"/></a>
 </p>
 
 <h2>
